@@ -3,8 +3,8 @@
 
 💬 <ruby>I've worked on:<rp>（</rp><rt>やったプロジェクトは</rt><rp>）</rp></ruby>
 - [Anytype Translation](https://github.com/anyproto/contributors)
-- Self hosting
 - [Personal website](https://psyaito.github.io/index.html)
+- Self hosting
 
 
 🔭 <ruby>I’m currently working on:<rp>（</rp><rt>やっているプロジェクトは</rt><rp>）</rp></ruby>
