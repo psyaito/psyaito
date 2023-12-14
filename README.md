@@ -1,4 +1,4 @@
-# <ruby>Hello! I'm Ken<rp>（</rp><rt>こんにちは！斉藤です</rt><rp>）</rp></ruby>
+## <ruby>Hello! I'm Ken<rp>（</rp><rt>こんにちは！斉藤です</rt><rp>）</rp></ruby>
 
 
 #### 💬 <ruby>I've worked on:<rp>（</rp><rt>やったプロジェクトは</rt><rp>）</rp></ruby>
