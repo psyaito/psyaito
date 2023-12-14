@@ -2,9 +2,9 @@
 
 
 💬 <ruby>I've worked on:<rp>（</rp><rt>やったプロジェクトは</rt><rp>）</rp></ruby>
-- Anytype Translation
+- [Anytype Translation](https://github.com/anyproto/contributors)
 - Self hosting
-- Personal website
+- [Personal website](https://psyaito.github.io/index.html)
 
 
 🔭 <ruby>I’m currently working on:<rp>（</rp><rt>やっているプロジェクトは</rt><rp>）</rp></ruby>
