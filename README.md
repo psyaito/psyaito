@@ -8,12 +8,13 @@
 
 
 🔭 <ruby>I’m currently working on:<rp>（</rp><rt>やっているプロジェクトは</rt><rp>）</rp></ruby>
-- Fine-tuning LLM
+- [Fine-tuning LLM](https://note.com/elyza/n/na405acaca130)
 
 
 ⚡<ruby>My skills are:<rp>（</rp><rt>知っていることは</rt><rp>）</rp></ruby>
 - Python
-- Basic CSS and HTML
+- CSS and HTML
+- Basic Machine Learning
 - Japanese translation
 
 
