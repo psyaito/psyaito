@@ -10,7 +10,7 @@
 
 #### 🔭 <ruby>I’m currently working on:<rp>（</rp><rt>やっているプロジェクトは</rt><rp>）</rp></ruby>
 - [Fine-tuning LLM](https://note.com/elyza/n/na405acaca130)
-- [Various 3D modeling and printing](https://www.youtube.com/@dayOne2673)
+- Tech articles
 
 
 #### ⚡<ruby>My skills are:<rp>（</rp><rt>知っていることは</rt><rp>）</rp></ruby>
@@ -18,6 +18,7 @@
 - CSS and HTML
 - Basic Machine Learning
 - Japanese translation
+- [3D modeling and printing](https://www.youtube.com/@dayOne2673)
 
 
 #### 🌱 <ruby>I’m currently learning:<rp>（</rp><rt>今、学んでいることは</rt><rp>）</rp></ruby>
